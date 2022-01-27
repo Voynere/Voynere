@@ -1,8 +1,8 @@
-- 🔭 I’m currently working on CRM System
+- 🔭 I’m currently working on Analytic System for e-commers
 - 👋 Hi, I’m Voyner Eugene
-- 👀 I’m interested in JAVA, country life, football, family and trip
-- 🌱 I’m currently learning <b>Tomsk State University of Control Systems and Radioelectronics</b>
-- 💞️ I’m looking to collaborate on fintech, startup, it companies
+- 👀 I’m interesting in Android development and flutter framework, country life, football, family and trip
+- 🌱 I’m currently learning <b>Tomsk State University of Control Systems and Radioelectronics</b> by the programming engineering
+- 💞️ I’m looking to collaborate on fintech, startup, it companies or e-commerce
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=voynere&show_icons=true&count_private=true"><img
