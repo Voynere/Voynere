@@ -27,6 +27,7 @@
 *   Kotlin
 *   JUnit
 *   Oracle SQL
-*   Flutter Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
-*   Hibernate
+*   Dart languages
+*   Flutter Framework
+*   RxJava
 *   GitHub/Jira
