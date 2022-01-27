@@ -24,9 +24,9 @@
 </p>
 🛠 Technical Stack
 *   Java languages
-*   Angular
+*   Kotlin
 *   JUnit
-*   MySQL, PostgreSQL
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
+*   Oracle SQL
+*   Flutter Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template
 *   Hibernate
 *   GitHub/Jira
