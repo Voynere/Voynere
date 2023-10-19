@@ -27,7 +27,6 @@
 *   Kotlin
 *   JUnit
 *   Oracle SQL
-*   Dart languages
-*   Flutter Framework
+*   Spring
 *   RxJava
 *   GitHub/Jira
