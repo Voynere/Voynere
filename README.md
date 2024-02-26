@@ -23,10 +23,8 @@
    📫 How to reach me: <a href='mailto:no2limit25@gmail.com'>no2limit25@gmail.com</a>
 </p>
 🛠 Technical Stack
-*   Java languages
-*   Kotlin
-*   JUnit
-*   Oracle SQL
-*   Spring
-*   RxJava
+*   Laravel
+*   PHP
+*   PHPUnit
+*   MySQL
 *   GitHub/Jira
