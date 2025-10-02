@@ -24,6 +24,7 @@
 </p>
 🛠 Technical Stack
 *   Dart/flutter
+*   Jetpack Compose
 *   Docker
 *   Api
 *   MySQL
