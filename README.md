@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on Analytic System for e-commers
 - 👋 Hi, I’m Voyner Eugene
-- 👀 I’m interesting in Android development and flutter framework, country life, football, family and trip
+- 👀 I’m interesting in flutter framework, country life, football, family and trip
 - 🌱 I’m currently learning <b>Tomsk State University of Control Systems and Radioelectronics</b> by the programming engineering
 - 💞️ I’m looking to collaborate on fintech, startup, it companies or e-commerce
 
@@ -23,9 +23,8 @@
    📫 How to reach me: <a href='mailto:no2limit25@gmail.com'>no2limit25@gmail.com</a>
 </p>
 🛠 Technical Stack
-*   Dart/flutter
-*   Jetpack Compose
+*   PHP
+*   Symfony
 *   Docker
 *   Api
-*   MySQL
-*   GitHub/Jira
+*   PostgreSQL/MySQL
