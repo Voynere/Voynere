@@ -4,13 +4,6 @@
 - 🌱 I’m currently learning <b>Tomsk State University of Control Systems and Radioelectronics</b> by the programming engineering
 - 💞️ I’m looking to collaborate on fintech, startup, it companies or e-commerce
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=voynere&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=voynere&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/voynere/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=voynere&layout=compact"/></a>
-</p>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/voynere/">
